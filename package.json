@@ -1,0 +1,27 @@
+{
+  "name": "southwork_challenge",
+  "version": "1.0.0",
+  "description": "Repo to document the solution for the challenge sent by Southwork to Rafael Noguera",
+  "main": "demo.js",
+  "scripts": {
+    "start": "node demo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafanog/southwork_challenge.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Azure",
+    "Demo",
+    "Southwork"
+  ],
+  "author": "Rafael Noguera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafanog/southwork_challenge/issues"
+  },
+  "homepage": "https://github.com/rafanog/southwork_challenge#readme",
+  "dependencies": {}
+}
